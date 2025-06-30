@@ -1,5 +1,7 @@
 # Using Apache Flink to write to s3 using Apache Paimon
 
+![Static Badge](https://img.shields.io/badge/Flink-suntectec-green?logo=apacheflink&logoColor=%23E6526F&labelColor=black)
+
 Use the docker-compose.yml file to create a MariaDB database and an Apache Flink Job and Task manager to work with.
 
 Make sure to add your AWS credentials to the docker-compose.yml file first, so that it will be able to write to s3.
